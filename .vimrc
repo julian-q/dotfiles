@@ -29,6 +29,3 @@ nnoremap k gk
 " Persistent undo
 set undodir=~/.vim/undodir
 set undofile
-
-" Mousewheel scroll
-set mouse=nicr
